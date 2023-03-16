@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO seminar 2 -pr2\POO seminar 2 -pr2\main.cpp(14,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO seminar 2 -pr2\POO seminar 2 -pr2\main.cpp(17,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO seminar 2 -pr2\POO seminar 2 -pr2\main.cpp(18,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  POO seminar 2 -pr2.vcxproj -> C:\Users\Gabriela\OneDrive\Desktop\POO\POO seminar 2 -pr2\Debug\POO seminar 2 -pr2.exe
