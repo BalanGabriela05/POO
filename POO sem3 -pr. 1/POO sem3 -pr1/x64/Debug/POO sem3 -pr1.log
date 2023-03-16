@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Math.cpp
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem3 -pr1\POO sem3 -pr1\Math.cpp(16,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem3 -pr1\POO sem3 -pr1\Math.cpp(20,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem3 -pr1\POO sem3 -pr1\Math.cpp(32,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem3 -pr1\POO sem3 -pr1\Math.cpp(36,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  POO sem3 -pr1.vcxproj -> C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem3 -pr1\x64\Debug\POO sem3 -pr1.exe
