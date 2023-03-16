@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem1 -pr2\POO sem1 -pr2\Source.cpp(61,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem1 -pr2\POO sem1 -pr2\Source.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem1 -pr2\POO sem1 -pr2\Source.cpp(77,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem1 -pr2\POO sem1 -pr2\Source.cpp(66,14): warning C4101: 'a': unreferenced local variable
+  POO sem1 -pr2.vcxproj -> C:\Users\Gabriela\OneDrive\Desktop\POO\POO sem1 -pr2\Debug\POO sem1 -pr2.exe
