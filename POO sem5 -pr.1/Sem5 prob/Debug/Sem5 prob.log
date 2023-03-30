@@ -1,0 +1,51 @@
+﻿  main.cpp
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(5,5): error C2065: 'Number': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(5,12): error C2146: syntax error: missing ';' before identifier 'n1'
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(5,12): error C3861: 'n1': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(7,5): error C2065: 'Number': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(7,12): error C2146: syntax error: missing ';' before identifier 'n2'
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(7,12): error C3861: 'n2': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(9,5): error C2065: 'Number': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(9,12): error C2146: syntax error: missing ';' before identifier 'n3'
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(9,12): error C3861: 'n3': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(13,63): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(13,84): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(13,5): error C3861: 'printf': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(15,27): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(19,35): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(19,9): error C3861: 'printf': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(23,5): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(25,5): error C2065: 'n2': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(27,5): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(27,11): error C2065: 'n2': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(27,16): error C2065: 'n3': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(27,21): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(27,27): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(29,5): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(31,5): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(35,9): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(35,14): error C2065: 'n2': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(35,18): error C3861: 'printf': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(35,57): error C3861: 'printf': identifier not found
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(39,5): error C2065: 'Number': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(39,12): error C2146: syntax error: missing ';' before identifier 'n4'
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(39,12): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(41,5): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(43,5): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(43,11): error C2065: 'n1': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(45,5): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(49,5): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(51,5): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(53,7): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(55,5): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(57,5): error C2065: 'n4': undeclared identifier
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\main.cpp(59,5): error C2065: 'n4': undeclared identifier
+  Number.cpp
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(11,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(16,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(21,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(26,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(31,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(36,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gabriela\OneDrive\Desktop\POO\Sem5 prob\Sem5 prob\Number.cpp(41,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
